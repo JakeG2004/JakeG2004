@@ -1,11 +1,11 @@
-# Hi! My name is Jake.
+# Hi! My name is Jake!
 
 ## About Me:
 - Computer Science student at the University of Idaho
 - Indie Game Dev
 - Bassist and percussionist
 
-## Here's What I'm Working On:
+## ⏰ Here's What I'm Working On:
 - Making a game every month that I'm in school
 - Developing my skills as a computer scientist
 
@@ -24,9 +24,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ## What I Like to Make:
-- Games
-- Discord Bots
-- Data Processing
+- 🎮 Games
+- 🤖 Discord Bots
+- ✍️ Data Processing
 
 ## Contact Me Anytime: gend0188@vandals.uidaho.edu
 
