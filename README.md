@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi! My name is Jake.
+
+## About me:
+- Computer Science student at the University of Idaho
+- Indie Game Dev
+- Bassist and percussionist
+
+## Here's what I'm working on:
+- Making a game every month that I'm in school
+- Developing my skills as a computer scientist
+
+## I use:
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+
 
 <!--
 **JakeG2004/JakeG2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
