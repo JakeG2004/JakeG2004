@@ -1,15 +1,15 @@
 # Hi! My name is Jake.
 
-## About me:
+## About Me:
 - Computer Science student at the University of Idaho
 - Indie Game Dev
 - Bassist and percussionist
 
-## Here's what I'm working on:
+## Here's What I'm Working On:
 - Making a game every month that I'm in school
 - Developing my skills as a computer scientist
 
-## I use:
+## I Use:
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
@@ -22,6 +22,13 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+
+## What I Like to Make:
+- Games
+- Discord Bots
+- Data Processing
+
+## Contact Me Anytime: gend0188@vandals.uidaho.edu
 
 
 <!--
