@@ -3,10 +3,11 @@
 ## About Me:
 - Computer Science student at the University of Idaho
 - Indie Game Dev
+- Developer at [Polymorphic Games](https://polymorphicgames.com/)
 - Bassist and percussionist
 
 ## ⏰ Here's What I'm Working On:
-- Making a game every month that I'm in school
+- Making games while I'm at schol
 - Developing my skills as a computer scientist
 
 ## I Use:
