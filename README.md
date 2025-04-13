@@ -7,8 +7,10 @@
 - Bassist and percussionist
 
 ## ⏰ Here's What I'm Working On:
-- Making games while I'm at schol
-- Developing my skills as a computer scientist
+- Trying to make some pretty sick games and software!
+- Promoting Computer Science and Game development to college, high school, middle school and elementary school students!
+- Playing tennis with my friends :)
+- Becoming the grooviest bassist around!
 
 ## I Use:
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
